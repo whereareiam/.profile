@@ -17,7 +17,7 @@ When I'm not wrestling with CSS, I work on some pretty cool projects. Check them
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/354563/wicket-icon.svg" alt="wicket" width="42" height="42" />
-  <img src="https://www.svgrepo.com/show/443526/brand-vaadin.svg" alt="vaadin" width="42" height="42" />
+  <img src="https://vaadin.com/images/trademark/PNG/VaadinLogomark_RGB_1000x1000.png" alt="vaadin" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/353874/hibernate.svg" alt="hibernate" width="42" height="42" />
   <img src="https://avatars.githubusercontent.com/u/45949248" alt="lombok" width="42" height="42" />
@@ -30,7 +30,6 @@ When I'm not wrestling with CSS, I work on some pretty cool projects. Check them
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/452236/jb-intellij-idea.svg" alt="intellij" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="42" height="42" />
   <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="figma" width="42" height="42" />
